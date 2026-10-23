@@ -1,0 +1,19 @@
+# secrets
+.env
+
+# dependencies
+node_modules/
+
+# generated output
+audio/
+clips/
+slides/
+*.mp4
+script.json
+
+# source documents
+*.pdf
+sop.txt
+
+# mac junk
+.DS_Store
